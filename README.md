@@ -3,13 +3,10 @@ The whole project contains two part: Pairs trading strategy & Technical Indicato
 Codes presented here are for technical indicators strategy, and are solely developed by myself.
 
 ------------------------------------------------------------- CODES -----------------------------------------------------------------
-#Codes are shared from google drive as read-only. Please open with Google Colaboratory.
-
-Data Collection: https://drive.google.com/file/d/1xPbpxuwkYiWo_a6HjPM9LOIBxnVc3Kmu/view?usp=sharing
-
-Mock Trading: https://drive.google.com/file/d/1JVJtTXB7KM_iwn5mwwCZiZSLW4Pl7Ypa/view?usp=sharing
-- This is a simplified and merged version of mock trading codes. It displayed the core logic of our strategy, which are further explained below.
-
+- StockDataCollection: Collect data from yahoo finance.
+- Quant Trading: 
+  Run 'Main.py'.
+  A simplified version of codes that display the core logic of our strategy. Further explained below.
 
 ------------------------------------------------------------- NOTES -----------------------------------------------------------------
 *Techinical Indicators: 
