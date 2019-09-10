@@ -6,8 +6,6 @@ Codes presented here are for technical indicators strategy, and are solely devel
 - StockDataCollection: Collect data from yahoo finance.
 
 - Quant Trading: 
-
-  Run 'Main.py'.
   
   A simplified version of codes that display the core logic of our strategy. Further explained below.
 
